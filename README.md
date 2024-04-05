@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=42F71A&repeat=false&random=false&width=435&lines=Eu+sou+a+Bruna!)](https://git.io/typing-svg)
 
-* Sou estudante de Ciência de Dados pela UFC (Universidade Federal do Ceará) 
+* Estudante de Ciência de Dados pela UFC (Universidade Federal do Ceará) 
 * Me interesso por Modelagem Estatística e Machine Learning
 
 <h3 align="left">Onde me encontrar!</h3>
