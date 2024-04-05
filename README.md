@@ -6,6 +6,9 @@
 
 <div align="left">
   <img src="https://www.r-project.org/logo/Rlogo.svg" height="25" alt="R logo"  />
+  <img src= "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="25" alt="Pytho logo"  />
+  <img src= "https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/128x128.svg" height="25" alt="Pytho logo"  />
+  
 </div>
 
 <h3 align="left">Onde me encontrar!</h3>
