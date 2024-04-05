@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=FF6F2BBD&background=FF931E00&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Bruna!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=42F71A&repeat=false&random=false&width=435&lines=eu+sou+a+Bruna)](https://git.io/typing-svg)
 
-
-<p align="left">
+<p align="left"> Sou estudante de Ciência de Dados pela UFC (Universidade Federal do Ceará), porém, e possuo diploma técnico em Contabilidade
 
 
 <h3 align="left">Onde me encontrar!</h3>
