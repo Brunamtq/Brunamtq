@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=42F71A&repeat=false&random=false&width=435&lines=Hi!+I'm+Bruna+<3)](https://git.io/typing-svg)
 
-* I'm graduating in Data Science at Federal University of Ceará 🇧🇷
-* I'm interested in Statistical Modeling and Machine Learning
+* 🔭 I'm graduating in Data Science at Federal University of Ceará 🇧🇷
+* 💻 I'm interested in Statistical Modeling and Machine Learning
 
 <h3 align="left">How reach me!</h3>
 
