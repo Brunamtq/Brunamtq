@@ -17,7 +17,7 @@
   <img width="8" />
   <img src= "https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/128x128.svg" height="30" alt="Bash logo"  />
   <img width="8"/>
-  <img src= "https://commons.wikimedia.org/wiki/File:SQLite370.svg#/media/File:SQLite370.svg" height="30" alt="SQLite logo"  />
+  <img src= "https://latestlogo.com/wp-content/uploads/2023/12/sqlite.svg" height="30" alt="SQLite logo"  />
   
 </div>
 
