@@ -21,5 +21,9 @@
   
 </div>
 
+<h3 align="left">Currently studying!</h3>
 
+<div align="left">
+ <img src= "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="30" alt="Lua logo"  />
+</div>
 
