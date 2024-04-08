@@ -25,7 +25,7 @@
 
 <div align="left">
  <img src= "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="30" alt="Lua logo"  />
- <img width="8/>
- <img src= "https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" heigth="30" alt="Go logo" />
+ <img width="8"/>
+ <img src= "https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" heigth="30" alt="Go logo" />
 </div>
 
