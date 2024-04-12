@@ -21,6 +21,10 @@
   
 </div>
 
+<div align="left">
+  <img src= "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="30" alt="Pytho logo"  />
+</div>
+
 <h3 align="left">Currently studying!</h3>
 
 <div align="left">
