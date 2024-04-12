@@ -10,6 +10,8 @@
 
 <h3 align="left">My tools!</h3>
 
+<h3 align="left">Languages</h3>
+
 <div align="left">
   <img src= "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="30" alt="Pytho logo"  />
   <img width="8" />
@@ -20,6 +22,9 @@
   <img src= "https://latestlogo.com/wp-content/uploads/2023/12/sqlite.svg" height="30" alt="SQLite logo"  />
   
 </div>
+
+
+<h3 align="left">IDEs</h3>
 
 <div align="left">
   <img src= "https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" height="30" alt="VScode logo"  />
