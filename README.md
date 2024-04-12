@@ -17,7 +17,8 @@
   <img width="8" />
   <img src= "https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/128x128.svg" height="30" alt="Bash logo"  />
   <img width="8"/>
-  <img src= "https://latestlogo.com/wp-content/uploads/2023/12/sqlite.svg" height="30" alt="SQLite logo"  />
+  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mySQL logo"  />
+  <img width="8"/>
   <img src= "https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" height="30" alt="VScode logo"  />
 </div>
 
