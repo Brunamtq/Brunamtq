@@ -22,7 +22,7 @@
 </div>
 
 <div align="left">
-  <img src= "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="30" alt="Pytho logo"  />
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" height="30" alt="VScode logo"  />
 </div>
 
 <h3 align="left">Currently studying!</h3>
