@@ -20,6 +20,8 @@
   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mySQL logo"  />
   <img width="8"/>
   <img src= "https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" height="30" alt="VScode logo"  />
+  <img width="8"/>
+  <img src= "https://educe-ubc.github.io/images/rstudio_logo.png" height="30" alt="Rstudio logo"  />
 </div>
 
 <h3 align="left">Currently studying!</h3>
