@@ -29,6 +29,6 @@
 <div align="left">
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="30" alt="Lua logo"  />
  <img width="8"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/scala/scala-original.svg" heigth="5" alt="Scala logo">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/scala/scala-original.svg" height="30" alt="Scala logo">
 </div>
 
