@@ -24,18 +24,18 @@
   <img src="https://educe-ubc.github.io/images/rstudio_logo.png" height="30" alt="Rstudio logo"  />
 </div>
 
-<h3 align="left">SET YOUR HEART A BLAZE</h3>
-
-
-<div align="left">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif](https://giffiles.alphacoders.com/220/220166.gif" height="100" alt="GIF divertido" />
-</div>
-
 <h3 align="left">Currently studying!</h3>
 
 <div align="left">
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="30" alt="Lua logo"  />
  <img width="8"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/scala/scala-original.svg" height="30" alt="Scala logo">
+</div>
+
+<h3 align="left">SET YOUR HEART A BLAZE</h3>
+
+
+<div align="left">
+  <img src="https://giffiles.alphacoders.com/220/220166.gif" height="100" alt="GIF divertido" />
 </div>
 
