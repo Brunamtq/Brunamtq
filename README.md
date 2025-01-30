@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=42F71A&repeat=false&random=false&width=435&lines=Hi!+I'm+Bruna+<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=#FF2511&repeat=false&random=false&width=435&lines=Hi!+I'm+Bruna+<3)](https://git.io/typing-svg)
 
 * I'm an undergraduate student in Data Science at the Federal University of Ceará 🇧🇷
 * I'm interested in Statistical Modeling and Machine Learning
