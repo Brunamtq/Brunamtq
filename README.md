@@ -24,6 +24,9 @@
   <img src="https://educe-ubc.github.io/images/rstudio_logo.png" height="30" alt="Rstudio logo"  />
 </div>
 
+<h3 align="left">SET YOUR HEART A BLAZE</h3>
+
+
 <div align="left">
   <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif](https://giffiles.alphacoders.com/220/220166.gif" height="100" alt="GIF divertido" />
 </div>
